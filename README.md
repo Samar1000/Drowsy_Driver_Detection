@@ -8,5 +8,15 @@ Driver Drowsiness Detection and Accident Prevention System with raspberry pi and
 
 -Car avoids accident by self-parking if driver didn't responce to the alert.
 
+
+#Team
+-Samar Adel
+
+-Mariam Ahmed Ibrahim
+
+-Mennna-AllAH Hasan
+
+
+
 # Video
 https://youtu.be/P-KFa6Vy92g
