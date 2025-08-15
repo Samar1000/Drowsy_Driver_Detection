@@ -14,9 +14,5 @@ Driver Drowsiness Detection and Accident Prevention System with raspberry pi and
 
 -Mariam Ahmed Ibrahim
 
--Mennna-AllAH Hasan
+-Menna-AllAH Hasan
 
-
-
-# Video
-https://youtu.be/P-KFa6Vy92g
