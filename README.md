@@ -6,12 +6,12 @@
  mobile detection and engine overheat alarm. 
 
 ## Mechanism:
- -Raspberry pi using camera will detect if driver is drowsy and alert him.
- -Bluetooth module acts as a link between Raspberry and microcontroller, it sends information from raspberry pi to microcontroller if drowsiness occurs
- -Car avoids accident by self-parking if driver didn't responce to the alert.
+  - Raspberry pi using camera will detect if driver is drowsy and alert him.
+  - Bluetooth module acts as a link between Raspberry and microcontroller, it sends information from raspberry pi to microcontroller if drowsiness occurs
+  - Car avoids accident by self-parking if driver didn't responce to the alert.
 
 ## Team
- -Samar Adel
- -Mariam Ahmed Ibrahim
- -Menna-AllAH Hasan
+ - Samar Adel
+ - Mariam Ahmed Ibrahim
+ - Menna-AllAH Hasan
 
